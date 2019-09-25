@@ -12,9 +12,9 @@
 
 <div class="form"> 
     <label for="guessField">Enter a guess: </label> 
-    <input type = "text" id = "guessField" class = "guessField"> 
+    <input type = "text" id = "guessField" class = "guessField"></input>
     <input type = "submit" value = "Submit guess" 
-           class = "guessSubmit" id = "submitguess"> 
+           class = "guessSubmit" id = "submitguess"></input> 
 </div> 
   
 <script type = "text/javascript"> 
